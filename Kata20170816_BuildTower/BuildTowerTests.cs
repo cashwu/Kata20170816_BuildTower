@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Kata20170816_BuildTower
 {
     [TestClass]
-    public class UnitTest1
+    public class BuildTowerTests
     {
         [TestMethod]
         public void TestMethod1()
